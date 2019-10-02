@@ -1,0 +1,10 @@
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\bin\Debug\Aula4ex2.exe.config
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\bin\Debug\Aula4ex2.exe
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\bin\Debug\Aula4ex2.pdb
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\obj\Debug\Aula4ex2.csprojAssemblyReference.cache
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\obj\Debug\Aula4ex2.Form1.resources
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\obj\Debug\Aula4ex2.Properties.Resources.resources
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\obj\Debug\Aula4ex2.csproj.GenerateResource.cache
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\obj\Debug\Aula4ex2.csproj.CoreCompileInputs.cache
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\obj\Debug\Aula4ex2.exe
+C:\Users\Edson Bruno\Documents\Estudos\C#\Malopes\PDS\Aula4ex2\Aula4ex2\obj\Debug\Aula4ex2.pdb
